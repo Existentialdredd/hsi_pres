@@ -1,0 +1,12 @@
+name: psc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - IPython
+  - itertools
